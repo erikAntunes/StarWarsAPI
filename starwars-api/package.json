@@ -4,7 +4,7 @@
   "description": "starwars api desenvolvida em nodejs com mongodb",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node src/server.js"
   },
   "author": "Erik Antunes",
   "license": "ISC",
